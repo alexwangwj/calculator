@@ -5,7 +5,7 @@
 //  Created by wangjie on 2017/7/26.
 //  Copyright © 2017年 wangjiejuranaa. All rights reserved.
 //
-
+// This is a second version, to test git
 import UIKit
 
 class ViewController: UIViewController {

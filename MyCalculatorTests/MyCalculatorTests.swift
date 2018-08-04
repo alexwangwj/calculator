@@ -3,7 +3,7 @@
 //  MyCalculatorTests
 //
 //  Created by wangjie on 2017/7/26.
-//  Copyright © 2017年 wangjiejuranaa. All rights reserved.
+//  Copyright © 2017年 wangjiejuran. All rights reserved.
 //
 
 import XCTest
